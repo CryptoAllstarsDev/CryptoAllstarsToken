@@ -1,0 +1,1 @@
+# Crypto Allstars Token contract
